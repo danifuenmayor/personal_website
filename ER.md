@@ -46,3 +46,5 @@
   - Description
   - Date
   - Author
+
+![alt text](ER.png "Diagrama Entidad Relacion")
